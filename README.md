@@ -1,3 +1,6 @@
+Copy from https://github.com/chauby/BipedalWalkingRobots
+知乎：https://zhuanlan.zhihu.com/p/389396724
+添加了一点自己的注释
 # Bipedal Walking Robots
 
 ---
